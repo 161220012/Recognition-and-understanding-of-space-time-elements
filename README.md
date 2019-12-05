@@ -1,3 +1,13 @@
-# Recognition-and-understanding-of-space-time-elements
-本科毕设
-hello
+# 面向地理高考选择题中时空要素的识别及理解技术
+##### 本文档为本科毕设项目文档
+
+项目子任务分为：
+
+1.
+
+2.
+
+3.
+
+
+
