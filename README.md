@@ -11,3 +11,7 @@
 
 
 
+## LICENSE
+
+This project is licensed under [MIT](http://opensource.org/licenses/MIT)
+
