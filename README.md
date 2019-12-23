@@ -27,7 +27,7 @@
 
 3.事件型时间，模式如当xx发生时
 
-![test截图](C:\Users\lenovo\Documents\GitHub\Recognition-and-understanding-of-space-time-elements\test截图.png)
+![](https://github.com/161220012/Recognition-and-understanding-of-space-time-elements/blob/master/test%E6%88%AA%E5%9B%BE.png)
 
 
 
